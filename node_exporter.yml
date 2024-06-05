@@ -1,0 +1,9 @@
+parameters:
+  port: 9100
+
+metrics:
+  - cpu
+  - memory
+  - diskstats
+  - filesystem
+  - loadavg
